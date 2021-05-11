@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
-<root>
-	<CityLat>-33.8679</CityLat>
-	<CityLong>151.2073</CityLong>
-	<Exclude>hourly,current,minutely,alerts</Exclude>
-	<AuthKey>0576ec9192b306d136de81a76d4f5e4a</AuthKey>
-	<BaseUri>https://api.openweathermap.org/data/2.5/onecall?lat={0}&amp;lon={1}&amp;exclude={2}&amp;units=metric&amp;appid={3}</BaseUri>
-</root>
